@@ -19,4 +19,4 @@ Big thanks to Kevin Yank who gave us this knowledge. Thanks man, Ziv Bio!
 You can find this book on  [Sitepoint](https://www.sitepoint.com/premium/books/php-mysql-novice-to-ninja-5th-edition)
 
 
-* **Kevin Yank** - * what i conclude from the book i think that he is an awesome teacher * - [Profile](https://github.com/sentience)
+* **Kevin Yank** - *What i conclude from the book i think that he is an awesome teacher* - [Profile](https://github.com/sentience)

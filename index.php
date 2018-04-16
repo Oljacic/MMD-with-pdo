@@ -24,7 +24,7 @@ if (isset($_GET['addjoke'])) {
 }
 
 try {
-    $pdo = new PDO('mysql:host=localhost;dbname=ijdb', 'ijdbuser', 'mypass');
+    $pdo = new PDO('mysql:host=*host*t;dbname=*databasename*', '*username*', '*pass*');//here you need your host, your databasename, username and pass
     $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
     $pdo->exec('SET NAMES "utf8"');
 }
